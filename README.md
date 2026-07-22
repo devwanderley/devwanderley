@@ -22,7 +22,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 -   📊 Dashboards & analytics
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?devwanderley=anuraghazra&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?devwanderley=anuraghazra&langs_count=6&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=devwanderley&langs_count=7&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=devwanderley&langs_count=7&theme=transparent)
 
 ## 🛠️ Tech Stack
 
